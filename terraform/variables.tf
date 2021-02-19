@@ -5,7 +5,7 @@ variable "resource_group" {
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "My Spring Boot App deployed by Terraform"
+  default     = "My-SpringBoot-Terraform"
 }
 
 variable "location" {
