@@ -10,5 +10,5 @@ variable "application_name" {
 
 variable "location" {
   description = "The Azure location where all resources in this example should be created"
-  default     = "East US"
+  default     = "eastus"
 }
